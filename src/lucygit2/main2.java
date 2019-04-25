@@ -6,5 +6,7 @@ public class main2 {
 		// TODO Auto-generated method stub
 
 	}
-
+public SecondClass(){
+	
+}
 }
